@@ -1,0 +1,31 @@
+
+
+Q)What is Azure Boards?
+================
+Azure board provides service to manage your works, using the Agile Scrum and Kanban templates, Dashboard that we can customize and reporting.
+
+Q)What are Azure Repos?
+================
+Azure Repos is a code version control system that can manage your code and its version.
+
+Using that we can track the changes, whenever team edits code it has all the version history so later, we can coordinate with the team and merge the changes.
+
+The azure repo has both a centralized version control system as well as a distributed version control system.
+
+Git: Distributed Version Control System
+
+Team FoundationVersion Control (TFVC): Centralized Version Control System.
+
+Q)What are Azure Pipelines?
+==================
+Azure Pipelines has all the features that are required for supporting Continuous Integration (CI) and Continuous Deployment (CD).
+
+Using that we can constantly test and build the code and release it to any target.
+
+Q)What are Azure Test Plans?
+======================
+Azure test plan provides browser-based test management using that we can manage all the testing like Exploratory & manual testing, Continuous testing, Unit & functional testing also we can ask or Request stakeholder to provide feedback.
+
+Q)What are Azure Artifacts ?
+====================
+Azure Artifacts is the service using that we create, host and share packages with teams. We can share code across teams, and manage all package types like NuGet, Marven, npm, Gradle etc.
